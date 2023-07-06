@@ -1,5 +1,5 @@
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/takluyver/bash_kernel/master
+ :target: https://mybinder.org/v2/gh/rzmk/qsv_binder/HEAD?labpath=qsv_notebook.ipynb
 
 =========================
 A Jupyter kernel for bash
