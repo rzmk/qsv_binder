@@ -4,7 +4,7 @@ A repo for using qsv in a [Binder](https://mybinder.org) environment.
 
 Click the following badge to launch an environment:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rzmk/qsv_binder/HEAD?labpath=qsv_notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rzmk/qsv_binder/HEAD)
 
 ## Credits
 
